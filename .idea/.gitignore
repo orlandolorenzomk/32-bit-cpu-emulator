@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.name
+/8bit-cpu-emulator.iml
+/vcs.xml
+/inspectionProfiles/Project_Default.xml
+/misc.xml
+/modules.xml
+/copilot.data.migration.ask.xml
+/copilot.data.migration.agent.xml
+/copilot.data.migration.ask2agent.xml
+/copilot.data.migration.edit.xml
+/editor.xml
